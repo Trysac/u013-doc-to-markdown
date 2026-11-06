@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add HTML and DOCX to Markdown conversion with safety limits and a CLI.
 - Initial project structure from the factory utility template.

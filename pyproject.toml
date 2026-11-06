@@ -19,6 +19,9 @@ classifiers = [
 ]
 dependencies = []
 
+[project.scripts]
+doc-to-markdown = "doc_to_markdown.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/Trysac/u013-doc-to-markdown"
 Source = "https://github.com/Trysac/u013-doc-to-markdown"
